@@ -1,6 +1,7 @@
 body{
-	font-family: "Marker Felt", "Comic Sans MS", fantasy;
+	font-family: 'Kumbh Sans', sans-serif;
 	color: #003366;
+	background-color: DarkTurquoise;
 	}
 h1 {
 	font-size: 1.3em;
@@ -21,4 +22,8 @@ th {
 	text-align: center;
 	color: #ffffff;
 	background-color: #003366;
+	}
+.links {
+	text-align: left;
+	font-weight: bold;
 	}

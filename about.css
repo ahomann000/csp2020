@@ -1,0 +1,9 @@
+body {
+  background-color: DarkTurquoise;
+  font-family: 'Kumbh Sans', sans-serif;
+  text-align: center;
+}
+.links {
+	text-align: left;
+	font-weight: bold;
+}
